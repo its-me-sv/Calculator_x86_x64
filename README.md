@@ -15,7 +15,8 @@
 <hr>
 <h3 id="downloads">Downloads</h3>
 <a href="Snips.rar">Download Gallery</a><br>
-<a href="sudoku_solver.py">Download sudoku_solver.py [main]</a><br>
-<a href="sudoku.rar">Download Complete Source Code [main, module, resources]</a><br>
+<a href="Calculator.exe">Download Standalone Executable</a><br>
+<a href="Calculator.py">Download Calculator.py [main]</a><br>
+<a href="gui_calculator.rar">Download Complete Source Code [main, module, resources]</a><br>
 <hr>
 <a href="#top">Go To Table Of Contents</a>
