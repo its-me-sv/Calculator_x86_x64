@@ -9,7 +9,7 @@
 		<li>Custom Stack Data Structure</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="0.PNG">
+<img src="https://github.com/its-me-sv/Calculator_x86_x64/blob/main/0.png">
 <img src="1.PNG">
 <img src="2.PNG">
 <hr>
