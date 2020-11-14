@@ -9,13 +9,12 @@
 		<li>Custom Stack Data Structure</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="Snips/0.PNG">
-<img src="Snips/1.PNG">
-<img src="Snips/2.PNG">
+<img src="0.PNG">
+<img src="1.PNG">
+<img src="2.PNG">
 <hr>
 <h3 id="downloads">Downloads</h3>
 <a href="Snips.rar">Download Gallery</a><br>
-<a href="Documentation.txt">Download Complete Documentation</a><br>
 <a href="sudoku_solver.py">Download sudoku_solver.py [main]</a><br>
 <a href="sudoku.rar">Download Complete Source Code [main, module, resources]</a><br>
 <hr>
