@@ -10,7 +10,7 @@
 </ol><hr>
 <h3 id="glry">Gallery</h3>
 <img src="https://github.com/its-me-sv/Calculator_x86_x64/blob/main/0.png">
-<img src="1.PNG">
+<img src="https://github.com/its-me-sv/Calculator_x86_x64/blob/main/1.png">
 <img src="2.PNG">
 <hr>
 <h3 id="downloads">Downloads</h3>
